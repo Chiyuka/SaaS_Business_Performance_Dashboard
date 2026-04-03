@@ -6,14 +6,6 @@ A business intelligence dashboard built with **Python**, **Pandas**, **Streamlit
 
 ---
 
-## 🖼️ Preview
-
-| KPI Overview | Data Health |
-|---|---|
-| ![Dashboard KPIs](screenshots/dashboard_kpis.png) | ![Data Health](screenshots/data_health.png) |
-
----
-
 ## ✨ Features
 
 - **KPI Cards** — Live calculations of MRR, Churn Rate, ARPU, and Active Subscriber count
