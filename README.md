@@ -145,6 +145,6 @@ docs: add README
 
 ## 👤 Author
 
-**Your Name**
-CS Student · Business Intelligence Trainee Applicant
+**TUON Phannarong**
+CS Student
 [github.com/Chiyuka](https://github.com/Chiyuka) · [www.linkedin.com/in/phannarong-tuon-734267296](https://www.linkedin.com/in/phannarong-tuon-734267296)
